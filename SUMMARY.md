@@ -8,7 +8,7 @@
 
 ## Navigation
 
-* [Tools](navigation/tools.md)
+* [Work Tools](navigation/work-tools.md)
 * [Social](navigation/social.md)
 * [Google](navigation/google.md)
 
