@@ -9,5 +9,6 @@
 ## Navigation
 
 * [Tools](navigation/tools.md)
+* [Social](navigation/social.md)
 * [Google](navigation/google.md)
 
