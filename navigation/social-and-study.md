@@ -10,9 +10,5 @@
 
 ## III
 
-### [W3Schools](https://www.w3schools.com/) \| [W3school\_cn](https://www.w3school.com.cn/) \| [Slack overflow](https://stackoverflow.com/) \| [InfoQ](https://www.infoq.cn/)
-
-## Inquire
-
-### [哪煮米](https://www.nazhumi.com/) \| 
+### [W3Schools](https://www.w3schools.com/) \| [W3school\_cn](https://www.w3school.com.cn/) \| [Slack overflow](https://stackoverflow.com/) \| [InfoQ](https://www.infoq.cn/) \| [廖雪峰](https://www.liaoxuefeng.com/)
 

@@ -8,7 +8,7 @@
 
 ## Navigation
 
-* [Work Tools](navigation/work-tools.md)
 * [Social & Study](navigation/social-and-study.md)
+* [Work Tools](navigation/work-tools.md)
 * [Google](navigation/google.md)
 
