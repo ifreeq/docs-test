@@ -12,7 +12,3 @@
 
 ### [Iconfont](https://www.iconfont.cn/) \| [Pxhere](https://pxhere.com/)
 
-## Inquire
-
-### [哪煮米](https://www.nazhumi.com/) \| 
-
