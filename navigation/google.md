@@ -22,7 +22,7 @@
 
 ## V
 
-### [Google Ads](https://ads.google.com/) \| [Google Analytics](https://analytics.google.com/) \| [Market Finder by Google](https://marketfinder.thinkwithgoogle.com/)
+### [Google Ads](https://ads.google.com/home/) \| [Google Analytics](https://analytics.google.com/) \| [Market Finder by Google](https://marketfinder.thinkwithgoogle.com/)
 
 ## VI
 
