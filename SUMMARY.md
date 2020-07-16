@@ -2,9 +2,9 @@
 
 * [About](README.md)
 
-## Key words
+## Keywords
 
-* [Keywords Today](key-words/keywords-today.md)
+* [Keywords Today](keywords/keywords-today.md)
 
 ## Navigation
 
