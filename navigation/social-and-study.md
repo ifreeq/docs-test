@@ -1,4 +1,4 @@
-# Social&Study
+# Social & Study
 
 ## I
 
