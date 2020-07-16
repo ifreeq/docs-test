@@ -15,10 +15,19 @@
 
 * 联想红: e12726
 * 可口可乐logo红: e61d2b
-* 可口可乐红: \#9F2D20   /RGB：159 45 32  /LAB 37 474 36
-* Leica的logo  : \#ed1c24
-* Huawei Red \(1987-2018\): \#ed1c24
-* Verizon Red \(2000-2015\)  : \#ec1c24
+* 可口可乐红: 9F2D20   /RGB：159 45 32  /LAB 37 474 36
+* Leica的logo  : ed1c24
+* Huawei Red \(1987-2018\): ed1c24
+* Verizon Red \(2000-2015\)  : ec1c24
 
+## 黑色
+
+* 4d4d4d
+* 1d1d1f
+
+## 浅灰色
+
+* f5f5f7
+* 
 
 
