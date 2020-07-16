@@ -37,7 +37,7 @@
 
 ![&#x6838;&#x5FC3;&#x8272;&#x677F;](../.gitbook/assets/image.png)
 
-[Wechat.design](https://wechat.design/)
+[**Wechat.design**](https://wechat.design/)\*\*\*\*
 
 ## 红色
 
