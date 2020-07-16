@@ -2,9 +2,9 @@
 
 * [About](README.md)
 
-## Daily Record
+## Key words
 
-* [Keywords Today](daily-record/keywords-today.md)
+* [Keywords Today](key-words/keywords-today.md)
 
 ## Navigation
 
