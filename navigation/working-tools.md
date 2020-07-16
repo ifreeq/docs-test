@@ -8,7 +8,7 @@
 
 ### [Venngage](https://venngage.com/) \| [Snappa](https://snappa.com/) \| [Canva](https://www.canva.com/)
 
-## Material
+## Icon & Images Source
 
 ### [Iconfont](https://www.iconfont.cn/) \| [Pxhere](https://pxhere.com/)
 
