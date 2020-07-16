@@ -1,11 +1,19 @@
-# 色彩标准
+---
+description: 2020/07/16
+---
+
+# Color Guide
 
 ## 谷歌色系
 
-* 蓝色\#4285F4   转换成  RGB: \(66,133,244\)
-* 绿色\#34A853   转换成  RGB: \(52,168,83\)
-* 黄色\#FBBC05  转换成  RGB:\(251,188,5\)
-* 红色\#EA4335  转换成  RGB:\(234,67,53\)
+* 蓝色\#4285F4
+* 绿色\#0F9D58
+* 黄色\#F4B400
+* 红色\#DB4437
+
+![Google Logo](../.gitbook/assets/image%20%281%29.png)
+
+[**Design.google**](https://design.google/library/evolving-google-identity/)\*\*\*\*
 
 ## 微信色彩标准
 
@@ -43,7 +51,12 @@
 
 * 联想红: e12726
 * 可口可乐logo红: e61d2b
-* 可口可乐红: 9F2D20   /RGB：159 45 32  /LAB 37 474 36
+* 可口可乐红: 9F2D20
+
+  /RGB：159 45 32
+
+  /LAB 37 474 36
+
 * Leica的logo  : ed1c24
 * Huawei Red \(1987-2018\): ed1c24
 * Verizon Red \(2000-2015\)  : ec1c24
