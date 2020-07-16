@@ -2,5 +2,5 @@
 
 ## 20200716
 
-Cloud SQL, nginx, google cdn,
+Cloud SQL, nginx, google cdn
 
