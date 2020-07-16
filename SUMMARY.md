@@ -9,6 +9,6 @@
 ## Navigation
 
 * [Social & Study](navigation/social-and-study.md)
-* [Work Tools](navigation/work-tools.md)
+* [Working Tools](navigation/working-tools.md)
 * [Google](navigation/google.md)
 
