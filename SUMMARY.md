@@ -8,6 +8,6 @@
 
 ## Navigation
 
-* [Google](navigation/google.md)
 * [Tools](navigation/tools.md)
+* [Google](navigation/google.md)
 
