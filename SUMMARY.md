@@ -6,9 +6,13 @@
 
 * [Keywords - 2020/07](keywords/keywords-today.md)
 
-## Tips
+## Study Record
 
-* [Color Guide](tips/se-cai-biao-zhun.md)
+* [Untitled](study-record/untitled.md)
+
+## Guide
+
+* [Color Guide](guide/se-cai-biao-zhun.md)
 * [Material.io](https://material.io/)
 
 ## Navigation
@@ -16,8 +20,4 @@
 * [Social & Study](navigation/social-and-study.md)
 * [Working Tools](navigation/working-tools.md)
 * [Google](navigation/google.md)
-
-## Study Record
-
-* [Untitled](study-record/untitled.md)
 
