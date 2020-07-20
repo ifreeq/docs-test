@@ -310,5 +310,57 @@ server {
 
  假如我的网站是`www.example.com`这样就能使用`https://www.example.com/newchart/hollow/small/nsh000001.gif`，它指向是`http://image.sinajs.cn/newchart/hollow/small/nsh000001.gif`
 
-## 
+## 3, gzip 压缩提升网站性能
+
+**1. 介绍**
+
+网站开发到一定程度，可能css文件或js文件会越来越大，因为有可能加载了很多的插件。这个时候如果能把这些文件压缩一下就好了。
+
+nginx就支持这种功能，它可以把静态文件压缩好之后再传给浏览器。浏览器也要支持这种功能，只要浏览器的请求头带上`Accept-Encoding: gzip`就可以了。假如有一个文件叫application.css，那nginx就会使用gzip模块把这个文件压缩，然后传给浏览器，浏览器再解压缩成原来的css文件，就能读取了。
+
+所有的这一切都需要nginx已经有编译过`ngx_http_gzip_module`这个模块。这个模块能对需要的静态文件压缩大小，比如图片，css，javascript，html等。压缩是需要消耗CPU，但能提高传缩的速度，因为传缩量少了许多，从而节省带宽。
+
+**2. 使用**
+
+使用之前先来查看一下是否编译了`ngx_http_gzip_module`这个模块。
+
+```text
+sudo nginx -V
+```
+
+配置nginx的gzip
+
+```text
+http {
+        gzip on;
+        gzip_disable "msie6";
+
+        gzip_vary on;
+        gzip_proxied any;
+        gzip_comp_level 6;
+        gzip_buffers 16 8k;
+        gzip_http_version 1.1;
+        gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript;
+        server {
+                location ~ ^/assets/ {
+                   gzip_static on;
+                   expires max;
+                   add_header Cache-Control public;
+                }        
+        }
+}
+
+```
+
+上面最重要的是http中`gzip on;`还有`gzip_types`这两行，是一定要写的。其他的`gzip_vary`等都是一些配置，可以不写。
+
+然后在需要压缩的静态资源那里加上下面三行:
+
+```text
+gzip_static on;
+expires max;
+add_header Cache-Control public;
+```
+
+
 
