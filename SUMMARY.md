@@ -8,7 +8,7 @@
 
 ## Study Record
 
-* [Untitled](study-record/untitled.md)
+* [Nginx](study-record/untitled.md)
 
 ## Guide
 
