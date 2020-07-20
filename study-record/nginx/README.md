@@ -1,0 +1,10 @@
+# Nginx
+
+**Nginx** \(pronounced "engine X",[\[8\]](https://en.wikipedia.org/wiki/Nginx#cite_note-Sysoev-8) [/ˌɛndʒɪnˈɛks/](https://en.wikipedia.org/wiki/Help:IPA/English) [EN-jin-EKS](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)\) \(stylized as **NGINX** or **nginx** or **NginX**\) is a [web server](https://en.wikipedia.org/wiki/Web_server) which can also be used as a [reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy), [load balancer](https://en.wikipedia.org/wiki/Load_balancer), mail proxy and [HTTP cache](https://en.wikipedia.org/wiki/HTTP_cache). The software was created by [Igor Sysoev](https://en.wikipedia.org/wiki/Igor_Sysoev) and first publicly released in 2004.[\[9\]](https://en.wikipedia.org/wiki/Nginx#cite_note-Mobily-9) A company of the same name was founded in 2011 to provide support and Nginx Plus paid software.[\[10\]](https://en.wikipedia.org/wiki/Nginx#cite_note-D-10)
+
+Nginx is [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software), released under the terms of the [2-clause BSD](https://en.wikipedia.org/wiki/2-clause_BSD) license. A large fraction of web servers use NGINX,[\[11\]](https://en.wikipedia.org/wiki/Nginx#cite_note-netcraft2017-11) often as a [load balancer](https://en.wikipedia.org/wiki/Load_balancer).[\[12\]](https://en.wikipedia.org/wiki/Nginx#cite_note-Linode-12)
+
+In March 2019, the Nginx company was acquired by [F5 Networks](https://en.wikipedia.org/wiki/F5_Networks) for $670 million.[\[13\]](https://en.wikipedia.org/wiki/Nginx#cite_note-13)
+
+As of February 2020, [Netcraft](https://en.wikipedia.org/wiki/Netcraft) estimated Nginx served 36.48 percent of all active websites ranked, ranking it first, above [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) at 24.51 percent,[\[14\]](https://en.wikipedia.org/wiki/Nginx#cite_note-14) while according to W3Techs, Apache is ranked first at 40.1 percent and Nginx 2nd at 31.8 percent.[\[15\]](https://en.wikipedia.org/wiki/Nginx#cite_note-15)
+
