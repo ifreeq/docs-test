@@ -1,10 +1,8 @@
 # Apple “无缝”设计之历程
 
-[关键词](http://www.hi-id.com/?page_id=111): [Apple](http://www.hi-id.com/?tag=apple), [seamless](http://www.hi-id.com/?tag=seamless), [专利](http://www.hi-id.com/?tag=%e4%b8%93%e5%88%a9), [工艺](http://www.hi-id.com/?tag=%e5%b7%a5%e8%89%ba), [无缝](http://www.hi-id.com/?tag=%e6%97%a0%e7%bc%9d), [结构](http://www.hi-id.com/?tag=%e7%bb%93%e6%9e%84)
+当两个东西组成一起时，就会留下结合的痕迹。两条线组成一个形态就会有一个节点，两种材料相连就会有一条结合线，两个零件相配就有了装配缝隙，可以说，如果没有化学反应参与，物件相连接相组合，发生的物理连接这一事件，会形成一条日志（log），这条日志记录了连接前后物件的状态，凭着这些日志我们就可以分析物件形成和发展。
 
 ![apple seamless design journery](http://www.hi-id.com/atcl/2017/apple-seamless-design-journery.jpg)
-
-当两个东西组成一起时，就会留下结合的痕迹。两条线组成一个形态就会有一个节点，两种材料相连就会有一条结合线，两个零件相配就有了装配缝隙，可以说，如果没有化学反应参与，物件相连接相组合，发生的物理连接这一事件，会形成一条日志（log），这条日志记录了连接前后物件的状态，凭着这些日志我们就可以分析物件形成和发展。
 
 在一个产品上，这些日志就存在于形态的转折处，零件的相配处，在分割线和连接缝隙之中。\[ i D 公 社 \] 此前两篇文章，《[2010: A Design Odyssey](http://www.hi-id.com/?p=2639)》和《[设计的踪迹](http://www.hi-id.com/?p=2716)》就是从产品的结构和装配出发，通过对这些“日志”——设计与制作在产品身上留下的踪迹——的阅读和分析，来梳理 Apple 这些产品的设计的形成，及其发展历程。本文《[Apple “无缝”设计之历程](http://www.hi-id.com/?p=3286)》将继续这段探索之路，来分析一种特殊的接缝，那就是“无缝”（seamless）。
 
