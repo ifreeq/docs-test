@@ -1,7 +1,9 @@
 # 反“建筑学”的 Apple Park 将刺激建筑的发展
 
-![apple park photo](http://www.hi-id.com/atcl/2017/apple-park-photo.jpg)  
+  
 Apple Park 即苹果公司新的环形总部自 2011 年对外公布以来，一直受到人们的关注，就像是一件将要发布的 Apple 产品一样，而且可以看到它的建造过程，借助于无人飞机等工具。大众喜欢这个巨大的环形飞船，充满未来感——或者说复古未来感，像以前的科幻场景描绘地那样。随着媒体带来一些深度的报道，比如 Steven Levy 在 Wired 的长篇文章《[Inside Apple’s Insanely Great \(or Just Insane\) New Mothership](https://www.wired.com/2017/05/apple-park-new-silicon-valley-campus/)》，以及 WSJ 最近发布的 Christina Passariello 的《[How Jony Ive Masterminded Apple’s New Headquarters](https://www.wsj.com/articles/how-jony-ive-masterminded-apples-new-headquarters-1501063201)》，还有此前来自[路透社](http://www.reuters.com/article/us-apple-campus-idUSKBN15M0CM)等媒体的文章，带来不少这个建筑上一些细节设计的介绍，如媒体对 Apple 新产品的报道一样，人们愈加好奇和喜欢这个飞船总部。WSJ 的文章介绍了新总部的内部空间以及员工的工作环境，以及有一些新的照片，包括开放式的工作区，[一](https://sixcolors.com/link/2017/07/jony-ive-and-apple-park/)[些](https://daringfireball.net/linked/2017/07/26/ive-apple-park)[人](https://twitter.com/marcoarment/status/890231222684856320)对苹果公司员工从办公室转换到开放式的办公表示一些忧虑，除此之外，大多数人对这个建筑表示了喜欢之情。
+
+![apple park photo](http://www.hi-id.com/atcl/2017/apple-park-photo.jpg)
 
 但是建筑评论圈自始至终对这个建筑并无好感，一路都是批判的意见，Rowan Moore 在卫报的文章《[The billion-dollar palaces of Apple, Facebook and Google](https://www.theguardian.com/artanddesign/2017/jul/23/inside-billion-dollar-palaces-of-tech-giants-facebook-apple-google-london-california-wealth-power)》汇总了其中一些对 Apple Park 的批判意见。大众媒体上的建筑评论，影响他批判视角的立场往往偏向于人文，加上建筑历来都是单件建造，所以大多数这些评论家对大量制造、过度消费化和商业化带有与生俱来的抵制，有时这些抵制是情绪化的，他们讨厌批量化的东西，将流行作为庸俗来批判，有趣的是，批判庸俗的时候总是借助于经典，所以可以看到不少评论用 Dieter Rams 的设计来批判 Apple 现在的设计。或许是一个正常现象，我们可以看到每个行业对行业内的无名后来者（Underdog）的反抗和成就的取得总是充满赞美，而来行业外的外来者的所谓跨界总是充满警惕，尤其是来自于邻近行业的挑战，因为这种挑战触及的不是荣誉和利益，而是学科传统，它是有圈子意识的。
 

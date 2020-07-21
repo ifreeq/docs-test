@@ -15,6 +15,7 @@
   * [HomePod 的设计](design/apple/homepod-de-she-ji.md)
   * [解决方案、设计、好设计，Apple UI 设计中的 Tuning](design/apple/jie-jue-fang-an-she-ji-hao-she-ji-apple-ui-she-ji-zhong-de-tuning.md)
   * [Apple 的 Logo 设计](design/apple/apple-de-logo-she-ji.md)
+  * [J 的艺术，R 的艺术](design/apple/j-de-yi-shur-de-yi-shu.md)
   * [从圆角到圆角](design/apple/cong-yuan-jiao-dao-yuan-jiao.md)
   * [Apple 颜色设计的历程](design/apple/apple-yan-se-she-ji-de-li-cheng.md)
   * [欲望、逻辑和习惯](design/apple/yu-wang-luo-ji-he-xi-guan.md)
