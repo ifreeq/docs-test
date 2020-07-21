@@ -20,6 +20,13 @@
   * [欲望、逻辑和习惯](design/apple/yu-wang-luo-ji-he-xi-guan.md)
   * [反“建筑学”的 Apple Park 将刺激建筑的发展](design/apple/fan-jian-zhu-xue-de-apple-park-jiang-ci-ji-jian-zhu-de-fa-zhan.md)
   * [螺钉，还是胶水？](design/apple/luo-ding-hai-shi-jiao-shui.md)
+  * [关于苹果设计的书籍和文章推荐](design/apple/guan-yu-ping-guo-she-ji-de-shu-ji-he-wen-zhang-tui-jian.md)
+  * [正面冲撞习惯](design/apple/zheng-mian-chong-zhuang-xi-guan.md)
+  * [从 iOS 7 的电话图标到 polyoxybenzyl…](design/apple/cong-ios-7-de-dian-hua-tu-biao-dao-polyoxybenzyl.md)
+  * [Affordance（可供性）和设计](design/apple/affordance-ke-gong-xing-he-she-ji.md)
+  * [美的感知力](design/apple/mei-de-gan-zhi-li.md)
+  * [2010: A Design Odyssey](design/apple/2010-a-design-odyssey.md)
+  * [iPad,从 niche 到 mass](design/apple/ipad-cong-niche-dao-mass.md)
 
 ## Source
 
