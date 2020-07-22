@@ -31,6 +31,8 @@
   * [2010: A Design Odyssey](design/apple/2010-a-design-odyssey.md)
   * [iPad,从 niche 到 mass](design/apple/ipad-cong-niche-dao-mass.md)
 * [符号的设计](design/fu-hao-de-she-ji/README.md)
+  * [作为符号的设计（上篇）](design/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-shang-pian.md)
+  * [作为符号的设计（下篇）](design/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-xia-pian.md)
   * [符号化设计之符号形式探寻](design/fu-hao-de-she-ji/fu-hao-hua-she-ji-zhi-fu-hao-xing-shi-tan-xun.md)
 
 ## Source
