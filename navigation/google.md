@@ -14,7 +14,7 @@
 
 ## III
 
-### [Google Design](https://design.google/) \| [Google My Activity](https://myactivity.google.com/) \| [Google News](https://news.google.com/) \| [Think with Google](https://www.thinkwithgoogle.com/) \| [Google透明度报告](https://transparencyreport.google.com/)
+### [Google Design](https://design.google/) \| [Google My Activity](https://myactivity.google.com/) \| [Google News](https://news.google.com/) \| [Think with Google](https://www.thinkwithgoogle.com/) \| [Google透明度报告](https://transparencyreport.google.com/) \| [Google Patents](https://patents.google.com/)
 
 ## IV
 
