@@ -8,7 +8,9 @@
 
 ## design
 
-* [符号的设计](design/fu-hao-de-she-ji.md)
+* [Dark Mode](design/dark-mode/README.md)
+  * [Dark Mode的设计要点](design/dark-mode/dark-mode-de-she-ji-yao-dian.md)
+  * [一篇吃透 Dark Mode ，搞定“暗黑/深色”适配](design/dark-mode/yi-pian-chi-tou-dark-mode-gao-ding-an-hei-shen-se-kuo-pei.md)
 * [Apple](design/apple/README.md)
   * [Apple “无缝”设计之历程](design/apple/apple-wu-feng-she-ji-zhi-li-cheng.md)
   * [Apple 那些“无关紧要”的设计改进](design/apple/apple-na-xie-wu-guan-jin-yao-de-she-ji-gai-jin.md)
@@ -28,6 +30,7 @@
   * [美的感知力](design/apple/mei-de-gan-zhi-li.md)
   * [2010: A Design Odyssey](design/apple/2010-a-design-odyssey.md)
   * [iPad,从 niche 到 mass](design/apple/ipad-cong-niche-dao-mass.md)
+* [符号的设计](design/fu-hao-de-she-ji.md)
 
 ## Source
 
