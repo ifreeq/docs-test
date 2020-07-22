@@ -30,7 +30,8 @@
   * [美的感知力](design/apple/mei-de-gan-zhi-li.md)
   * [2010: A Design Odyssey](design/apple/2010-a-design-odyssey.md)
   * [iPad,从 niche 到 mass](design/apple/ipad-cong-niche-dao-mass.md)
-* [符号的设计](design/fu-hao-de-she-ji.md)
+* [符号的设计](design/fu-hao-de-she-ji/README.md)
+  * [符号化设计之符号形式探寻](design/fu-hao-de-she-ji/fu-hao-hua-she-ji-zhi-fu-hao-xing-shi-tan-xun.md)
 
 ## Source
 
