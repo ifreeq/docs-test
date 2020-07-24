@@ -11,6 +11,6 @@ gzip_proxied   expired no-cache no-store private auth;
 to
 
 ```text
-
+gzip_proxied any;
 ```
 
