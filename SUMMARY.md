@@ -1,10 +1,12 @@
 # Table of contents
 
 * [About](README.md)
+* [To Do List](to-do-list.md)
 
-## Dev Log
+## Devlopment <a id="development"></a>
 
-* [Web Changelog](dev-log/web-changelog.md)
+* [Web Changelog](development/web-changelog.md)
+* [Google Cloud CDN](development/google-cloud-cdn.md)
 
 ## Keywords
 
