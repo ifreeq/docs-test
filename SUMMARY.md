@@ -70,9 +70,9 @@
   * [作为符号的设计（下篇）](design/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-xia-pian.md)
   * [符号化设计之符号形式探寻](design/fu-hao-de-she-ji/fu-hao-hua-she-ji-zhi-fu-hao-xing-shi-tan-xun.md)
 
-## Guide
+## Guidebook
 
-* [Color Guide](guide/se-cai-biao-zhun.md)
+* [Color Guide](guidebook/se-cai-biao-zhun.md)
 * [Material.io](https://material.io/)
 
 ## Navigation
