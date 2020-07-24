@@ -3,14 +3,14 @@
 * [About](README.md)
 * [To Do List](to-do-list.md)
 
+## Keywords
+
+* [Keywords - 2020/07](keywords/keywords-today.md)
+
 ## Devlopment <a id="development"></a>
 
 * [Web Changelog](development/web-changelog.md)
 * [Google Cloud CDN](development/google-cloud-cdn.md)
-
-## Keywords
-
-* [Keywords - 2020/07](keywords/keywords-today.md)
 
 ## Source
 
