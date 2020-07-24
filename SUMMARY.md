@@ -4,7 +4,7 @@
 
 ## Dev Log
 
-* [Web change log](dev-log/web-change-log.md)
+* [Web Changelog](dev-log/web-changelog.md)
 
 ## Keywords
 
