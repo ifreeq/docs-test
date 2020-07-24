@@ -12,5 +12,11 @@ Apple design, 半泽直树2, Google patents
 
 News channel design, Dark Mode, smart home automation system
 
+## 2020/07/24
+
+Cache hit ratio, 
+
+
+
 
 
