@@ -2,6 +2,10 @@
 
 * [About](README.md)
 
+## Dev Log
+
+* [Web change log](dev-log/web-change-log.md)
+
 ## Keywords
 
 * [Keywords - 2020/07](keywords/keywords-today.md)
