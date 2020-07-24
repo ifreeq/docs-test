@@ -11,8 +11,7 @@
 
 * [Web Changelog](development/web-changelog.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
-  * [使用后端存储分区设置 Cloud CDN](development/google-cloud-cdn/shi-yong-hou-duan-cun-chu-fen-qu-she-zhi-cloud-cdn.md)
-  * [使用代管实例组设置 Cloud CDN](development/google-cloud-cdn/shi-yong-dai-guan-shi-li-zu-she-zhi-cloud-cdn.md)
+  * [使用拖管实例组设置 Cloud CDN](development/google-cloud-cdn/shi-yong-dai-guan-shi-li-zu-she-zhi-cloud-cdn.md)
   * [使用后端存储分区设置 Cloud CDN](development/google-cloud-cdn/shi-yong-hou-duan-cun-chu-fen-qu-she-zhi-cloud-cdn-1.md)
   * [使用缓存键](development/google-cloud-cdn/shi-yong-huan-cun-jian.md)
   * [查看日志](development/google-cloud-cdn/cha-kan-ri-zhi.md)

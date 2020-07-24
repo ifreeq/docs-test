@@ -1,4 +1,8 @@
-# 使用代管实例组设置 Cloud CDN
+---
+description: 'https://cloud.google.com/cdn/docs/setting-up-cdn-with-mig'
+---
+
+# 使用拖管实例组设置 Cloud CDN
 
 
 
