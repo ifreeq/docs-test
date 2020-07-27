@@ -6,6 +6,7 @@
 ## Keywords
 
 * [Keywords - 2020/07](keywords/keywords-today.md)
+* [Home Automation Brand](keywords/home-automation-brand.md)
 
 ## Devlopment <a id="development"></a>
 
