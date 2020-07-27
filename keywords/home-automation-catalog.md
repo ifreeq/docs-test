@@ -34,3 +34,42 @@ Ceiling Fans \| Standing Fans
 
 Irrigation \| Light Intensity Sensors \| Outdoor Temperature \| Soil Moisture
 
+## H - Z
+
+Kitchen/Bathroom \| Lights \| Locks \| Outlets \| Routers \| Sensors \| Switches/Buttons/Relays \| Thermostats \| Window Coverings
+
+### Kitchen/Bathroom
+
+Faucets, Showers
+
+### Lights
+
+Bulbs \| Flashlight \| Lamps \| Night Light \| Outdoor Lighting \| LED Panels \| Bulb Sockets \| Light Strips
+
+### Locks
+
+Door Locks \| Keypads \| Padlocks
+
+### Outlets
+
+Plugs \| Relays \| Wall Outlets
+
+### Routers
+
+### Sensors
+
+#### Temp/Humidity \| Air Quality Sensors \| Door/Window Sensors \| Flood Sensors \| Light Sensors \| Motion Sensors \| Sound Sensors
+
+* Temp/Humidity: Air Pressure Sensors \| Humidity Sensors \| Temperature Sensors
+* Air Quality Sensors: CO Sensors \| PM2.5 Sensors \| VOC Sensors \| Gas Sensors \| Smoke Sensors
+
+### Switches/Buttons/Relays
+
+Wired Switches \| Wireless Switches \| Buttons \| Wireless Controllers \| Relays
+
+### Thermostats
+
+### Window Coverings
+
+Smart Blinds \| Curtain Controllers \| Shutters
+
