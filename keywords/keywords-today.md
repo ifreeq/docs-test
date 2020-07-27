@@ -10,7 +10,7 @@ Apple design, 半泽直树2, Google patents
 
 ## 2020/07/22
 
-News channel design, Dark Mode, smart home automation system
+News channel, Dark Mode, smart home automation system
 
 ## 2020/07/24
 
