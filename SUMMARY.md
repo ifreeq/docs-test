@@ -41,6 +41,8 @@
       * [Google 搜索中的 Web Light 网页对广告网络的支持](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/google-sou-suo-zhong-de-web-light-wang-ye-dui-guang-gao-wang-luo-de-zhi-chi.md)
       * [Google 探索和您的网站](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/google-tan-suo-he-nin-de-wang-zhan.md)
       * [实用资源：面向适合在移动设备上显示的网页的开发者](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/shi-yong-zi-yuan-mian-xiang-kuo-he-zai-yi-dong-she-bei-shang-xian-shi-de-wang-ye-de-kai-fa-zhe.md)
+      * [将移动网络结算费用明确告知用户](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/jiang-yi-dong-wang-luo-jie-suan-fei-yong-ming-que-gao-zhi-yong-hu.md)
+      * [将 Android 应用与网站相关联](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/jiang-android-ying-yong-yu-wang-zhan-xiang-guan-lian.md)
   * [质量指南](development/search-console-bang-zhu/zhi-liang-zhi-nan.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
   * [使用拖管实例组设置 Cloud CDN](development/google-cloud-cdn/shi-yong-dai-guan-shi-li-zu-she-zhi-cloud-cdn.md)
