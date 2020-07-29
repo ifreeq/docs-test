@@ -24,5 +24,3 @@ Cloud SQL, nginx, google cdn
 
 
 
-
-
