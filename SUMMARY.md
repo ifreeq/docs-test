@@ -19,6 +19,8 @@
     * [使用 HTTPS 确保网站安全](development/search-console-bang-zhu/chang-gui-zhi-nan/shi-yong-https-que-bao-wang-zhan-an-quan.md)
     * [保持简单的网址结构](development/search-console-bang-zhu/chang-gui-zhi-nan/bao-chi-jian-dan-de-wang-zhi-jie-gou.md)
     * [向 Google 说明您的出站链接的用意](development/search-console-bang-zhu/chang-gui-zhi-nan/xiang-google-shuo-ming-nin-de-chu-zhan-lian-jie-de-yong-yi.md)
+    * [将网站标记为面向儿童的内容](development/search-console-bang-zhu/chang-gui-zhi-nan/jiang-wang-zhan-biao-ji-wei-mian-xiang-er-tong-de-nei-rong.md)
+    * [浏览器兼容性](development/search-console-bang-zhu/chang-gui-zhi-nan/liu-lan-qi-jian-rong-xing.md)
   * [专门面向内容的指南](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan.md)
   * [质量指南](development/search-console-bang-zhu/zhi-liang-zhi-nan.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
