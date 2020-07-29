@@ -13,6 +13,10 @@
 
 * [Search Console帮助](development/search-console-bang-zhu/README.md)
   * [指南概览](development/search-console-bang-zhu/zhi-nan-gai-lan.md)
+  * [网站站长指南](development/search-console-bang-zhu/wang-zhan-zhan-chang-zhi-nan.md)
+  * [常规指南](development/search-console-bang-zhu/chang-gui-zhi-nan.md)
+  * [专门面向内容的指南](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan.md)
+  * [质量指南](development/search-console-bang-zhu/zhi-liang-zhi-nan.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
   * [使用拖管实例组设置 Cloud CDN](development/google-cloud-cdn/shi-yong-dai-guan-shi-li-zu-she-zhi-cloud-cdn.md)
   * [使用后端存储分区设置 Cloud CDN](development/google-cloud-cdn/shi-yong-hou-duan-cun-chu-fen-qu-she-zhi-cloud-cdn-1.md)

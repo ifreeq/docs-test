@@ -10,3 +10,5 @@
 
 [**质量指南**](https://support.google.com/webmasters/topic/6001971)：这些指南描述了可能会使您的网页或网站被 Google 搜索结果忽略的特定被禁技术。采用这些技术可能会导致我们对您的网站采取[手动操作](https://support.google.com/webmasters/answer/9044175?#what-is-manual-action)。
 
+Link: [https://support.google.com/webmasters/answer/9526064?hl=zh-Hans&ref\_topic=9456575&dark=0](https://support.google.com/webmasters/answer/9526064?hl=zh-Hans&ref_topic=9456575&dark=0)
+
