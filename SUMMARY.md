@@ -14,6 +14,7 @@
 * [重要概念](google-dev/zhong-yao-gai-nian/README.md)
   * [Google 搜索的工作方式](google-dev/zhong-yao-gai-nian/google-sou-suo-de-gong-zuo-fang-shi.md)
   * [什么是展示次数、排名和点击次数？](google-dev/zhong-yao-gai-nian/shen-me-shi-zhan-shi-ci-shu-pai-ming-he-dian-ji-ci-shu.md)
+  * [关于我们的统计信息和数据](google-dev/zhong-yao-gai-nian/guan-yu-wo-men-de-tong-ji-xin-xi-he-shu-ju.md)
 * [Search Console帮助](google-dev/search-console-bang-zhu/README.md)
   * [指南概览](google-dev/search-console-bang-zhu/zhi-nan-gai-lan.md)
   * [网站站长指南](google-dev/search-console-bang-zhu/wang-zhan-zhan-chang-zhi-nan.md)
