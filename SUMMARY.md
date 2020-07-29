@@ -39,6 +39,7 @@
       * [在功能手机上进行移动浏览](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/zai-gong-neng-shou-ji-shang-jin-hang-yi-dong-liu-lan.md)
       * [Web Light：在搜索结果中提供更快速且更精简的移动版网页](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/web-light-zai-sou-suo-jie-guo-zhong-ti-gong-geng-kuai-su-qie-geng-jing-jian-de-yi-dong-ban-wang-ye.md)
       * [Google 搜索中的 Web Light 网页对广告网络的支持](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/google-sou-suo-zhong-de-web-light-wang-ye-dui-guang-gao-wang-luo-de-zhi-chi.md)
+      * [Google 探索和您的网站](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/google-yi-dong/google-tan-suo-he-nin-de-wang-zhan.md)
   * [质量指南](development/search-console-bang-zhu/zhi-liang-zhi-nan.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
   * [使用拖管实例组设置 Cloud CDN](development/google-cloud-cdn/shi-yong-dai-guan-shi-li-zu-she-zhi-cloud-cdn.md)
