@@ -29,6 +29,7 @@
     * [AJAX 增强网站](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/ajax-zeng-qiang-wang-zhan.md)
     * [图片和视频](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/tu-pian-he-shi-pin/README.md)
       * [Google 图片最佳做法](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/tu-pian-he-shi-pin/google-tu-pian-zui-jia-zuo-fa.md)
+      * [图片站点地图](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/tu-pian-he-shi-pin/tu-pian-zhan-dian-di-tu.md)
   * [质量指南](development/search-console-bang-zhu/zhi-liang-zhi-nan.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
   * [使用拖管实例组设置 Cloud CDN](development/google-cloud-cdn/shi-yong-dai-guan-shi-li-zu-she-zhi-cloud-cdn.md)
