@@ -22,6 +22,7 @@
     * [将网站标记为面向儿童的内容](development/search-console-bang-zhu/chang-gui-zhi-nan/jiang-wang-zhan-biao-ji-wei-mian-xiang-er-tong-de-nei-rong.md)
     * [浏览器兼容性](development/search-console-bang-zhu/chang-gui-zhi-nan/liu-lan-qi-jian-rong-xing.md)
     * [避免创建重复内容](development/search-console-bang-zhu/chang-gui-zhi-nan/bi-mian-chuang-jian-zhong-fu-nei-rong.md)
+    * [确保链接可供抓取](development/search-console-bang-zhu/chang-gui-zhi-nan/que-bao-lian-jie-ke-gong-zhua-qu.md)
   * [专门面向内容的指南](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan.md)
   * [质量指南](development/search-console-bang-zhu/zhi-liang-zhi-nan.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
