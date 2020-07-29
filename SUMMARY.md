@@ -32,6 +32,7 @@
       * [图片站点地图](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/tu-pian-he-shi-pin/tu-pian-zhan-dian-di-tu.md)
       * [Google 图片中的图片权限元数据](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/tu-pian-he-shi-pin/google-tu-pian-zhong-de-tu-pian-quan-xian-yuan-shu-ju.md)
       * [视频最佳做法](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/tu-pian-he-shi-pin/shi-pin-zui-jia-zuo-fa.md)
+      * [视频 Sitemap 及其替代方案](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/tu-pian-he-shi-pin/shi-pin-sitemap-ji-qi-ti-dai-fang-an.md)
   * [质量指南](development/search-console-bang-zhu/zhi-liang-zhi-nan.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
   * [使用拖管实例组设置 Cloud CDN](development/google-cloud-cdn/shi-yong-dai-guan-shi-li-zu-she-zhi-cloud-cdn.md)
