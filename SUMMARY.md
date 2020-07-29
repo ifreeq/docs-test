@@ -26,6 +26,7 @@
     * [借助 Google 搜索进行网站测试的最佳做法](development/search-console-bang-zhu/chang-gui-zhi-nan/jie-zhu-google-sou-suo-jin-hang-wang-zhan-ce-shi-de-zui-jia-zuo-fa.md)
   * [专门面向内容的指南](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/README.md)
     * [与 Google 搜索中的 AMP 网页相关的准则](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/yu-google-sou-suo-zhong-de-amp-wang-ye-xiang-guan-de-zhun-ze.md)
+    * [AJAX 增强网站](development/search-console-bang-zhu/zhuan-men-mian-xiang-nei-rong-de-zhi-nan/ajax-zeng-qiang-wang-zhan.md)
   * [质量指南](development/search-console-bang-zhu/zhi-liang-zhi-nan.md)
 * [Google Cloud CDN](development/google-cloud-cdn/README.md)
   * [使用拖管实例组设置 Cloud CDN](development/google-cloud-cdn/shi-yong-dai-guan-shi-li-zu-she-zhi-cloud-cdn.md)
