@@ -119,7 +119,7 @@
 
 ## Navigation
 
+* [Google](navigation/google.md)
 * [Social & Study](navigation/social-and-study.md)
 * [Working Tools](navigation/working-tools.md)
-* [Google](navigation/google.md)
 
