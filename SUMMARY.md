@@ -6,6 +6,7 @@
 ## Keywords
 
 * [Keywords - 2020/07](keywords/keywords-today.md)
+* [Keywords - 2020/08](keywords/keywords-2020-08.md)
 * [Home Automation Brand](keywords/home-automation-brand.md)
 * [Home Automation Catalog](keywords/home-automation-catalog.md)
 
