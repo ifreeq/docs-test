@@ -6,6 +6,7 @@
 ## Keywords
 
 * [Keywords - 2020/08](keywords/keywords-2020-08/README.md)
+  * [The Technical Data Guidance](keywords/keywords-2020-08/the-technical-data-guidance.md)
   * [美国如果把根域名服务器封了，中国会从网络上消失？](keywords/keywords-2020-08/untitled.md)
   * [伊拉克域名.IQ被美国删除的背后以及早期的根域名管理](keywords/keywords-2020-08/yi-la-ke-yu-ming-.iq-bei-mei-guo-shan-chu-de-bei-hou-yi-ji-zao-qi-de-gen-yu-ming-guan-li.md)
 * [Keywords - 2020/07](keywords/keywords-today.md)
