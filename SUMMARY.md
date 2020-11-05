@@ -88,7 +88,6 @@
 ## Read
 
 * [段永平投资问答录](read/dyp-q-and-a.md)
-* [段永平投资问答录](read/dyp-q-and-a-1.md)
 * [符号的设计](read/fu-hao-de-she-ji/README.md)
   * [作为符号的设计（上篇）](read/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-shang-pian.md)
   * [作为符号的设计（下篇）](read/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-xia-pian.md)
