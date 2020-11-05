@@ -4,7 +4,7 @@ description: 段永平投资问答录（商业逻辑篇）
 
 # 段永平投资问答录
 
-{% file src="../.gitbook/assets/duan-yong-ping-tou-zi-wen-da-lu-.pdf" %}
+{% file src="../.gitbook/assets/duan-yong-ping-tou-zi-wen-da-lu-.pdf" caption="段永平投资问答录 \(商业逻辑篇\)" %}
 
 问答录内容来源于段永平网易博客及雪球，版权归段永平所有。 本刊部分图片和文字来源于网络，如有侵权，请和我们联系。
 
