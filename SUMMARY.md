@@ -13,6 +13,7 @@
 
 ## Read
 
+* [金刚经 - 原文](read/jin-gang-jing-yuan-wen.md)
 * [段永平投资问答录](read/dyp-q-and-a.md)
 * [符号的设计](read/fu-hao-de-she-ji/README.md)
   * [作为符号的设计（上篇）](read/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-shang-pian.md)
