@@ -13,6 +13,7 @@
 
 ## Read
 
+* [缓慢收藏, 小心整理](read/huan-man-shou-cang-xiao-xin-zheng-li.md)
 * [金刚经 - 原文](read/jin-gang-jing-yuan-wen.md)
 * [段永平投资问答录](read/dyp-q-and-a.md)
 * [符号的设计](read/fu-hao-de-she-ji/README.md)
