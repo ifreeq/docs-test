@@ -11,10 +11,13 @@
   * [伊拉克域名.IQ被美国删除的背后以及早期的根域名管理](keywords/keywords-2020-08/yi-la-ke-yu-ming-.iq-bei-mei-guo-shan-chu-de-bei-hou-yi-ji-zao-qi-de-gen-yu-ming-guan-li.md)
 * [Keywords - 2020/07](keywords/keywords-today.md)
 
+## Note
+
+* [金刚经 - 原文](note/jin-gang-jing-yuan-wen.md)
+* [缓慢收藏, 小心整理](note/huan-man-shou-cang-xiao-xin-zheng-li.md)
+
 ## Read
 
-* [缓慢收藏, 小心整理](read/huan-man-shou-cang-xiao-xin-zheng-li.md)
-* [金刚经 - 原文](read/jin-gang-jing-yuan-wen.md)
 * [段永平投资问答录](read/dyp-q-and-a.md)
 * [符号的设计](read/fu-hao-de-she-ji/README.md)
   * [作为符号的设计（上篇）](read/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-shang-pian.md)
@@ -45,8 +48,6 @@
 
 ## Source
 
-* [Part 1](source/part-1/README.md)
-  * [curl](source/part-1/curl.md)
 * [Nginx](source/nginx/README.md)
   * [前言](source/nginx/qian-yan.md)
   * [Nginx入门](source/nginx/nginx-ru-men.md)
@@ -71,6 +72,8 @@
   * [Nginx 中处理 HTTP 请求](source/nginx/nginx-zhong-chu-li-http-qing-qiu.md)
   * [Untitled](source/nginx/untitled-2.md)
   * [Untitled](source/nginx/untitled-3.md)
+* [Part 1](source/part-1/README.md)
+  * [curl](source/part-1/curl.md)
 
 ## Google Dev
 
