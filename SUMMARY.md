@@ -13,8 +13,8 @@
 
 ## Note
 
-* [金刚经 - 原文](note/jin-gang-jing-yuan-wen.md)
 * [缓慢收藏, 小心整理](note/huan-man-shou-cang-xiao-xin-zheng-li.md)
+* [金刚经 原文 \| 抄经](note/jin-gang-jing-yuan-wen.md)
 
 ## Read
 
