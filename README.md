@@ -20,7 +20,7 @@ This is Jason's space, I will record my ideas here.
 
 Wechat/QQ ID: 9439168
 
-My email address is: 9439168@qq.com
+Personal Email: 9439168@qq.com
 
 Business Email: jason@ifreeq.com
 
