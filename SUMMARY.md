@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [关于 \| About](README.md)
 * [To Do List](to-do-list.md)
 
 ## Keywords
