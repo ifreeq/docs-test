@@ -1,7 +1,6 @@
 # Table of contents
 
 * [About](README.md)
-* [About](about.md)
 
 ## Keywords
 
