@@ -1,6 +1,7 @@
 # Table of contents
 
-* [关于我 \| About Me](README.md)
+* [关于我](README.md)
+* [About](about.md)
 
 ## Keywords
 
