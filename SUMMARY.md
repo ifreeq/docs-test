@@ -5,15 +5,16 @@
 ## Keywords
 
 * [keywords - 2021/01](keywords/keywords-2021-01.md)
-* [Keywords - 2020/08](keywords/keywords-2020-08/README.md)
-  * [The Technical Data Guidance](keywords/keywords-2020-08/the-technical-data-guidance.md)
-  * [美国如果把根域名服务器封了，中国会从网络上消失？](keywords/keywords-2020-08/untitled.md)
-  * [伊拉克域名.IQ被美国删除的背后以及早期的根域名管理](keywords/keywords-2020-08/yi-la-ke-yu-ming-.iq-bei-mei-guo-shan-chu-de-bei-hou-yi-ji-zao-qi-de-gen-yu-ming-guan-li.md)
+* [Keywords - 2020/08](keywords/keywords-2020-08.md)
 * [Keywords - 2020/07](keywords/keywords-today.md)
 
 ## Note
 
-* [2020](note/2020.md)
+* [2021](note/2021.md)
+* [2020](note/2020/README.md)
+  * [伊拉克域名.IQ被美国删除的背后以及早期的根域名管理](note/2020/yi-la-ke-yu-ming-.iq-bei-mei-guo-shan-chu-de-bei-hou-yi-ji-zao-qi-de-gen-yu-ming-guan-li.md)
+  * [美国如果把根域名服务器封了，中国会从网络上消失？](note/2020/untitled.md)
+  * [The Technical Data Guidance](note/2020/the-technical-data-guidance.md)
 * [缓慢收藏, 小心整理](note/huan-man-shou-cang-xiao-xin-zheng-li/README.md)
   * [泰戈尔诗句节选](note/huan-man-shou-cang-xiao-xin-zheng-li/tai-ge-er-shi-ju-jie-xuan.md)
 * [金刚经 原文 \| 抄经](note/jin-gang-jing-yuan-wen.md)
