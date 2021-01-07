@@ -13,6 +13,7 @@
 
 ## Note
 
+* [2020](note/2020.md)
 * [缓慢收藏, 小心整理](note/huan-man-shou-cang-xiao-xin-zheng-li/README.md)
   * [泰戈尔诗句节选](note/huan-man-shou-cang-xiao-xin-zheng-li/tai-ge-er-shi-ju-jie-xuan.md)
 * [金刚经 原文 \| 抄经](note/jin-gang-jing-yuan-wen.md)
