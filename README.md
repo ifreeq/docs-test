@@ -18,7 +18,7 @@ description: 形而上者为之道，形而下者为之器 - 易经
 
 This is Jason Zhang personal space, I will record my ideas here.
 
-Wechat/QQ ID: 9439168
+WeChat/QQ ID: 9439168
 
 Personal Email: 9439168@qq.com
 
