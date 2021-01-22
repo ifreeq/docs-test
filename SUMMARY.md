@@ -6,7 +6,7 @@
 
 * [keywords - 2021/01](keywords/keywords-2021-01.md)
 * [Keywords - 2020/08](keywords/keywords-2020-08.md)
-* [Keywords - 2020/07](keywords/keywords-today.md)
+* [Keywords - 2020/07](keywords/keywords-2020-07.md)
 
 ## Note
 
