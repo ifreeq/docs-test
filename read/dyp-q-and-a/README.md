@@ -9730,5 +9730,5 @@ IPad 之外各大平板电脑市场份额新浪科技讯 北京时间 11 月 22 
 
 **段永平：可能还需要时间吧？我花二十年悟明白的东西也许你需要悟** **十五年，如果你悟的话。**\(2019-09-16\)
 
-{% file src="../.gitbook/assets/duan-yong-ping-tou-zi-wen-da-lu-.pdf" caption="段永平投资问答录 \(商业逻辑篇\)" %}
+{% file src="../../.gitbook/assets/duan-yong-ping-tou-zi-wen-da-lu-.pdf" caption="段永平投资问答录 \(商业逻辑篇\)" %}
 

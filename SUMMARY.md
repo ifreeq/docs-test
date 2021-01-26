@@ -21,11 +21,13 @@
 
 ## Read
 
-* [段永平投资问答录](read/dyp-q-and-a.md)
-* [符号的设计](read/fu-hao-de-she-ji/README.md)
-  * [作为符号的设计（上篇）](read/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-shang-pian.md)
-  * [作为符号的设计（下篇）](read/fu-hao-de-she-ji/zuo-wei-fu-hao-de-she-ji-xia-pian.md)
-  * [符号化设计之符号形式探寻](read/fu-hao-de-she-ji/fu-hao-hua-she-ji-zhi-fu-hao-xing-shi-tan-xun.md)
+* [符号](read/fu-hao.md)
+* [段永平投资问答录](read/dyp-q-and-a/README.md)
+  * [符号的设计](read/dyp-q-and-a/fu-hao-de-she-ji.md)
+  * [符号形式探寻](read/dyp-q-and-a/fu-hao-xing-shi-tan-xun.md)
+  * [作为符号的设计（上篇）](read/dyp-q-and-a/zuo-wei-fu-hao-de-she-ji-shang-pian.md)
+  * [作为符号的设计（下篇）](read/dyp-q-and-a/zuo-wei-fu-hao-de-she-ji-xia-pian.md)
+  * [符号化设计之符号形式探寻](read/dyp-q-and-a/fu-hao-hua-she-ji-zhi-fu-hao-xing-shi-tan-xun.md)
 * [Dark Mode](read/dark-mode/README.md)
   * [Dark Mode的设计要点](read/dark-mode/dark-mode-de-she-ji-yao-dian.md)
   * [一篇吃透 Dark Mode ，搞定“暗黑/深色”适配](read/dark-mode/yi-pian-chi-tou-dark-mode-gao-ding-an-hei-shen-se-kuo-pei.md)
